@@ -18,10 +18,10 @@ Program ini merupakan implementasi struktur data Non-Restricted Linear List meng
   - HitungPenduduk() -> Menghitung jumlah penduduk dalam kota tertentu.
 
 > Struktur File
- main.c         -> File utama
- kota.c         -> Implementasi fungsi terkait kota
- kota.h         -> Header file kota
- linked.c       -> Implementasi linked list
- linked.h       -> Header file linked list
- README.md      -> Dokumentasi proyek
+main.c         -> File utama
+kota.c         -> Implementasi fungsi terkait kota
+kota.h         -> Header file kota
+linked.c       -> Implementasi linked list
+linked.h       -> Header file linked list
+README.md      -> Dokumentasi proyek
 -------------------------------------------------------------------------------------------------------------------------------------------
