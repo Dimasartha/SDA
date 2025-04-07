@@ -1,15 +1,15 @@
-# Program Manajemen Kota dan Penduduk (C Language)
+# Program Manajemen Kota dan Penduduk
 
-Program ini merupakan implementasi struktur data *linked list* ganda dalam bahasa C, yang digunakan untuk mengelola data kota beserta daftar penduduk di setiap kota. Program dibuat sebagai bagian dari studi kasus pembelajaran struktur data dan pemrograman modular.
+Program ini merupakan implementasi struktur data linked list ganda dalam bahasa C, yang digunakan untuk mengelola data kota beserta daftar penduduk di setiap kota. Program dibuat sebagai bagian dari studi kasus pembelajaran struktur data dan pemrograman modular.
 
 ## Struktur Project
 
 Project
-├── main.c
-├── kota.c
-├── kota.h
-├── linked.c
-├── linked.h
+- main.c
+- kota.c
+- kota.h
+- linked.c
+- linked.h
 
 ## Fitur Utama
 
